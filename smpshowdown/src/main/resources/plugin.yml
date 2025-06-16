@@ -1,0 +1,12 @@
+name: SMPShowdown
+version: 1.0
+main: org.zskv.smpshowdown.SMPShowdown
+api-version: 1.20
+
+commands:
+  score:
+    description: Manage team scores
+  team:
+    description: Assign players to teams
+  event:
+    description: Reloads plugin config
