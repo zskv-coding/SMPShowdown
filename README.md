@@ -1,3 +1,2 @@
 # SMPShowdown
-A Minecraft Tournament
-hello
+A Minecraft Tournament for creators of all size!
